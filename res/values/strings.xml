@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Josep Borrell Dashboard</string>
+    <string name="action_settings">Ajustos</string>
+    <string name="menu_guardar">Guardar</string>
+    <string name="menu_ajustos">Ajustos</string>
+    <string name="menu_nuevo">Nou</string>
+    <string name="title_section1">Noticies</string>
+    <string name="title_section2">Amics</string>
+    <string name="title_section3">Missatges</string>
+    <string name="title_section4">Llocs</string>
+    <string name="title_section5">Events</string>
+    <string name="title_section6">Fotos</string>
+    <string name="boto1">Introdueix</string>
+    <string name="text">No pots modificar res de moment</string>
+    <string name="text_amics">ni un</string>
+    <string name="text_noticies">Noticies .. no cap</string>
+    <string name="text_missatges">No no t ha parlat ningu</string>
+    <string name="text_llocs">No, not volen a cap puesto</string>
+    <string name="text_events">Events no t han invitat a res</string>
+    <string name="text_fotos">No pots vore cap foto</string>
+    <string name="Nomicognoms">Nom i cognoms</string>
+    <string name="Nomusuari">Nom de usuari</string>
+    <string name="Password">Password</string>
+    <string name="Cancela">Cancelar</string>
+
+</resources>
